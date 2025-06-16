@@ -8,9 +8,10 @@ Formado em Análise e Desenvolvimento de Sistemas, atualmente estou cursando a �
 
 Aqui estão algumas das tecnologias com as quais eu trabalho:
 
-- **Linguagens**: Python e JavaScript
-- **Frameworks**: React e Node.js
-- **Ferramentas**: Git e GitHub
+- **Linguagens**: Python, JavaScript
+- **Frameworks**: React, Node.js
+- **Banco de Dados**: SQL
+- **Ferramentas**: Git, GitHub
 
 ## 📫 Entre em contato
 
