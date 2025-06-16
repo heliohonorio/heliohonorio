@@ -32,4 +32,4 @@ Aqui estão algumas formas de entrar em contato:
 - **LinkedIn:** [heliohonorio](https://www.linkedin.com/in/heliohonorio)
 - **GitHub:** [heliohonorio](https://github.com/heliohonorio)
 
-**Estou ansioso para novas oportunidades de aprendizado e colaboração!**
+**Em busca de novas oportunidades de aprendizado e colaboração!**
