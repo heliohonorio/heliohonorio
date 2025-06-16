@@ -23,11 +23,13 @@ Formado em Análise e Desenvolvimento de Sistemas, atualmente estou cursando a �
 
 ---
 
-## Vamos conversar sobre como posso contribuir para seu próximo projeto ou desafio tecnológico?  
-Estou sempre em busca de novas oportunidades de colaboração, desenvolvimento e inovação. Se você gostaria de discutir uma oportunidade de trabalho ou parceria, aqui estão algumas formas de entrar em contato:
+## Estou em busca de uma oportunidade para aplicar e expandir meus conhecimentos em desenvolvimento.  
+Atualmente, estou em fase de aprendizado e adquirindo experiência na área de desenvolvimento de sistemas e web. Se você está procurando um profissional dedicado e disposto a crescer, ficarei feliz em discutir como posso contribuir para sua equipe.  
+
+Aqui estão algumas formas de entrar em contato:
 
 - **E-mail:** [heliohonorio11@gmail.com](mailto:heliohonorio11@gmail.com)
 - **LinkedIn:** [heliohonorio](https://www.linkedin.com/in/heliohonorio)
 - **GitHub:** [heliohonorio](https://github.com/heliohonorio)
 
-**Vamos construir algo incrível juntos!**
+**Estou ansioso para novas oportunidades de aprendizado e colaboração!**
