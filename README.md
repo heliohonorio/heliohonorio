@@ -23,6 +23,7 @@ Formado em An√°lise e Desenvolvimento de Sistemas, atualmente estou cursando a √
 - **Ferramentas de Versionamento:**  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+
 ---
 
 ## Estou em busca de uma oportunidade para aplicar e expandir meus conhecimentos em desenvolvimento.  
