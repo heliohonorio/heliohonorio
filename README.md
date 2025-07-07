@@ -4,11 +4,9 @@ Estou em transição de carreira e sou apaixonado por tecnologia. Acredito que o
 
 Formado em Análise e Desenvolvimento de Sistemas, atualmente estou cursando a área de **Desenvolvimento Web**, com foco em projetos e cursos que complementam a minha formação. Através de minha trajetória acadêmica e de projetos pessoais, procuro sempre crescer, tanto profissional quanto pessoalmente.
 
-## Tecnologias e Ferramentas que utilizo:
-
-- **Linguagens de Programação:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 👨‍💻 Tecnologias e Ferramentas
+- 💻 Linguagens: Python, JavaScript
+- ⚙️ Ferramentas: Git, Docker
 
 - **Frameworks e Bibliotecas:**  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
