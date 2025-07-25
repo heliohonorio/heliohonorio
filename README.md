@@ -8,6 +8,8 @@ Estou em transição de carreira e sou apaixonado por tecnologia. Acredito que o
 - 💻 **Linguagens:**
   <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
   <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - ⚙️ **Ferramentas:**
   <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
@@ -26,12 +28,4 @@ Estou em transição de carreira e sou apaixonado por tecnologia. Acredito que o
 ---
 
 ## Estou em busca de uma oportunidade para aplicar e expandir meus conhecimentos em desenvolvimento.  
-Atualmente, estou em fase de aprendizado e adquirindo experiência na área de desenvolvimento de sistemas e web. Se você está procurando um profissional dedicado e disposto a crescer, ficarei feliz em discutir como posso contribuir para sua equipe.  
-
-Aqui estão algumas formas de entrar em contato:
-
-- **E-mail:** [heliohonorio11@gmail.com](mailto:heliohonorio11@gmail.com)
-- **LinkedIn:** [heliohonorio](https://www.linkedin.com/in/heliohonorio)
-- **GitHub:** [heliohonorio](https://github.com/heliohonorio)
-
-**Em busca de novas oportunidades de aprendizado e colaboração!**
+Atualmente, estou em fase de aprendizado e adquirindo experiência na área de desenvolvimento de sistemas e web. Se você está procurando um profissional dedicado e disposto a crescer, ficarei feliz em discutir como posso contribuir para sua equipe. 
