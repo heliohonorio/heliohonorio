@@ -37,3 +37,8 @@ Aqui estão algumas formas de entrar em contato:
 - **GitHub:** [heliohonorio](https://github.com/heliohonorio)
 
 **Em busca de novas oportunidades de aprendizado e colaboração!**
+
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/SEU_USUARIO/count.svg )
