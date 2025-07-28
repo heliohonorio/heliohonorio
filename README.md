@@ -41,4 +41,4 @@ Aqui estão algumas formas de entrar em contato:
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/SEU_USUARIO/count.svg )
+![Visitor Count](https://profile-counter.glitch.me/heliohonorio/count.svg )
