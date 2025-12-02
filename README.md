@@ -1,6 +1,6 @@
 # Olá, sou Helio Honorio! 👋
 
-Estou em transição de carreira e sou apaixonado por tecnologia. Acredito que o futuro se constrói com aprendizado constante, por isso, estou sempre buscando aprimorar minhas habilidades e expandir meus conhecimentos. 
+Estou em transição de carreira, Acredito que o futuro se constrói com aprendizado constante, por isso, estou sempre buscando aprimorar minhas habilidades e expandir meus conhecimentos. 
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**, foco em projetos e cursos que complementam a minha formação. Através de minha trajetória acadêmica e de projetos pessoais, procuro sempre crescer, tanto profissional quanto pessoalmente.
 
